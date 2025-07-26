@@ -1,3 +1,12 @@
+/**
+ * Discord 連結阻擋系統 - 主程式檔案
+ * 
+ * @author Discord 用戶: kiziray(https://discord.gg/zeitfrei)
+ * @version 1.0.0
+ * @description 主程式入口點，負責初始化 Discord 機器人並註冊連結阻擋功能
+ * @license 僅供個人學習和研究使用
+ */
+
 const { Client, GatewayIntentBits } = require('discord.js');
 const { registerLinkBlocker, CONFIG } = require('./linkclear.js');
 

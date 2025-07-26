@@ -1,12 +1,11 @@
 {
   "name": "discord-link-blocker",
   "version": "1.0.0",
-  "description": "Discord 連結阻擋模組 - 支援角色權限控制和頻道排除功能",
-  "main": "linkclear.js",
+  "description": "Discord 連結阻擋系統 - 支援角色權限控制和頻道排除功能",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node --watch index.js"
   },
   "keywords": [
     "discord",
@@ -15,24 +14,23 @@
     "moderation",
     "security"
   ],
-  "author": "Your Name",
-  "license": "MIT",
+  "author": {
+    "name": "kiziray",
+    "discord": "https://discord.gg/zeitfrei"
+  },
+  "license": "僅供個人學習和研究使用",
   "dependencies": {
     "discord.js": "^14.14.1"
   },
-  "devDependencies": {
-    "nodemon": "^3.0.2"
-  },
   "engines": {
-    "node": ">=16.0.0",
-    "npm": ">=8.0.0"
+    "node": ">=16.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "your-repository-url"
+    "url": "https://github.com/your-username/discord-link-blocker.git"
   },
   "bugs": {
-    "url": "your-repository-url/issues"
+    "url": "https://github.com/your-username/discord-link-blocker/issues"
   },
-  "homepage": "your-repository-url#readme"
+  "homepage": "https://github.com/your-username/discord-link-blocker#readme"
 } 

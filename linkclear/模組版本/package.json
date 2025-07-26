@@ -1,7 +1,7 @@
 {
   "name": "discord-link-blocker-module",
   "version": "1.0.0",
-  "description": "Discord 連結阻擋系統 - 模組版本",
+  "description": "Discord 連結阻擋系統 - 模組版本，適合進階用戶",
   "main": "linkclear-standalone.js",
   "keywords": [
     "discord",
@@ -11,13 +11,23 @@
     "security",
     "module"
   ],
-  "author": "Your Name",
-  "license": "MIT",
+  "author": {
+    "name": "kiziray",
+    "discord": "https://discord.gg/zeitfrei"
+  },
+  "license": "僅供個人學習和研究使用",
   "dependencies": {
     "discord.js": "^14.14.1"
   },
   "engines": {
-    "node": ">=16.0.0",
-    "npm": ">=8.0.0"
-  }
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/discord-link-blocker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/discord-link-blocker/issues"
+  },
+  "homepage": "https://github.com/your-username/discord-link-blocker#readme"
 } 

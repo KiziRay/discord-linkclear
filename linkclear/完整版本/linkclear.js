@@ -1,3 +1,12 @@
+/**
+ * Discord 連結阻擋系統 - 完整版本核心模組
+ * 
+ * @author Discord 用戶: kiziray(https://discord.gg/zeitfrei)
+ * @version 1.0.0
+ * @description 完整版本的連結阻擋功能核心實現
+ * @license 僅供個人學習和研究使用
+ */
+
 const { WebhookClient, EmbedBuilder } = require('discord.js');
 
 // ==================== ⚙️ 連結阻擋配置區域 ====================

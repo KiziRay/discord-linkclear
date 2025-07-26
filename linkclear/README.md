@@ -8,15 +8,15 @@
 
 ## 👨‍💻 原作者
 
-**Discord 用戶：** `kiziray(https://discord.gg/zeitfrei)`
+**Discord 用戶：** `kiziray (https://discord.gg/zeitfrei) ` 
+
+<img width="389" height="615" alt="image" src="https://github.com/user-attachments/assets/347f4a3f-d5ce-4a0d-b05c-9ba0e7c51046" />
 
 ## 📋 目錄結構
 
 ```
 📦 linkclear/
 ├── 📄 README.md              # 本文件 - 主要說明和指引
-├── 📄 主要說明.md            # 詳細功能說明
-├── 📄 使用說明.md            # 快速使用指南
 ├── 📄 package.json           # 依賴管理
 ├── 📄 index.js               # 完整版本主程式
 ├── 📄 linkclear.js           # 完整版本模組
@@ -242,7 +242,7 @@ A: 是的，同一個機器人可以服務多個伺服器，但配置會套用�
    - 檢查 JSON 語法是否正確
    - 確認角色 ID 和頻道 ID 是否有效
 
-## 📞 支援與協助
+## 📞 疑難雜症
 
 如果遇到問題，請按以下順序檢查：
 
@@ -296,15 +296,13 @@ A: 是的，同一個機器人可以服務多個伺服器，但配置會套用�
 
 ## 📚 相關文件
 
-- **📄 主要說明.md** - 詳細的功能說明和配置指南
-- **📄 使用說明.md** - 快速使用指南和常見問題
 - **📁 完整版本/README.md** - 完整版本的詳細說明
 - **📁 模組版本/README.md** - 模組版本的詳細說明
 
 ---
 
 **原作者：** Discord 用戶 `kiziray`  
-**最後更新：** 2024年12月  
-**版本：** 1.0.0  
+**最後更新：** 2025年07月  
+**版本：** 1.0.1  
 **相容性：** Discord.js v14+  
 **授權：** 僅供個人學習和研究使用 

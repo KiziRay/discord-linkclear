@@ -1,3 +1,12 @@
+/**
+ * Discord 連結阻擋系統 - 核心模組
+ * 
+ * @author Discord 用戶: kiziray(https://discord.gg/zeitfrei)
+ * @version 1.0.0
+ * @description 連結阻擋功能的核心實現，包含連結檢測、權限檢查、訊息處理等功能
+ * @license 僅供個人學習和研究使用
+ */
+
 const { WebhookClient, EmbedBuilder } = require('discord.js');
 
 const CONFIG = {

@@ -1,29 +1,37 @@
 {
   "name": "discord-link-blocker-complete",
   "version": "1.0.0",
-  "description": "Discord 連結阻擋系統 - 完整版本",
+  "description": "Discord 連結阻擋系統 - 完整版本，適合新手用戶",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.js"
+    "dev": "node --watch index.js"
   },
   "keywords": [
     "discord",
     "bot",
     "link-blocker",
     "moderation",
-    "security"
+    "security",
+    "complete-version"
   ],
-  "author": "Your Name",
-  "license": "MIT",
+  "author": {
+    "name": "kiziray",
+    "discord": "https://discord.gg/zeitfrei"
+  },
+  "license": "僅供個人學習和研究使用",
   "dependencies": {
     "discord.js": "^14.14.1"
   },
-  "devDependencies": {
-    "nodemon": "^3.0.2"
-  },
   "engines": {
-    "node": ">=16.0.0",
-    "npm": ">=8.0.0"
-  }
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/discord-link-blocker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/discord-link-blocker/issues"
+  },
+  "homepage": "https://github.com/your-username/discord-link-blocker#readme"
 } 
