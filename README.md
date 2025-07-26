@@ -8,7 +8,8 @@
 
 ## 👨‍💻 原作者
 
-**Discord 用戶：** `kiziray (https://discord.gg/zeitfrei) ` \n
+**Discord 用戶：** `kiziray (https://discord.gg/zeitfrei) ` 
+
 <img width="389" height="615" alt="image" src="https://github.com/user-attachments/assets/347f4a3f-d5ce-4a0d-b05c-9ba0e7c51046" />
 
 ## 📋 目錄結構
